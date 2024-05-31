@@ -1,0 +1,13 @@
+{
+  "name": "clutter-clearer",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "control.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dhruv Roy / coder-dkr",
+  "license": "ISC"
+}
